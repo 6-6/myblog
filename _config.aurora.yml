@@ -9,18 +9,18 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
-  description:
+  subtitle: 疾影的博客
+  author: 疾影
+  nick: TAROS
+  description: 迷雾中的光
   link: '/'
-  language: en
-  multi_language: true
-  logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+  language: cn
+  multi_language: false
+  logo: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
+  avatar: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
   beian:
-    number: ''
-    link: ''
+    number: '琼ICP备 2021001759号'
+    link: 'https://beian.miit.gov.cn/'
   police_beian:
     number: ''
     link: ''
@@ -47,6 +47,13 @@ menu:
   About: true
   Tags: true
   Archives: true
+   # 自定义菜单
+  message-board:
+    name: 'MessageBoard'
+    i18n:
+      cn: '留言板'
+      en: 'Message Board'
+    path: '/source/message-board'
 
 #! ---------------------------------------------------------------
 #! Theme Config
@@ -89,10 +96,10 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon:
-  description: ''
+  favicon: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
+  description: 'my blog'
   keywords: ''
-  author: ''
+  author: '疾影'
 
 #! ---------------------------------------------------------------
 #! Plugins
@@ -103,16 +110,16 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
-  id: uid
+  clientID: '1ec0992ee9c76b113e2d'
+  clientSecret: '969436efc807175760662385162790ecc882877a'
+  repo: 'blog-comments'
+  owner: '6-6'
+  admin: ['6-6']
+  id: location.pathname
   language: en
   distractionFreeMode: true
   recentComment: true
-  proxy: ''
+  proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html
