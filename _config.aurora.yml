@@ -96,7 +96,7 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
+  favicon: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/myblog/Ranked_Medal_Frame_Legend.png?sign=29a8e246e2a5f05dcfe4eba3a1247c02&t=1638254049
   description: 'my blog'
   keywords: ''
   author: '疾影'
