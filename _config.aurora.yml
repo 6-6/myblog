@@ -16,8 +16,8 @@ site:
   link: '/'
   language: cn
   multi_language: false
-  logo: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
-  avatar: http://kodbox.taros.xyz/?explorer/share/fileOut&shareID=7mKBT4Vw&path=%7BshareItemLink%3A7mKBT4Vw%7D%2F
+  logo: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/myblog/Ranked_Medal_Frame_Legend.png?sign=29a8e246e2a5f05dcfe4eba3a1247c02&t=1638254049
+  avatar: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/myblog/wilson.jpg?sign=345e0376aaf8f4e293daec0c63d6fe74&t=1638253935
   beian:
     number: '琼ICP备 2021001759号'
     link: 'https://beian.miit.gov.cn/'
@@ -53,7 +53,7 @@ menu:
     i18n:
       cn: '留言板'
       en: 'Message Board'
-    path: '/source/message-board'
+    path: '/page/message-board'
 
 #! ---------------------------------------------------------------
 #! Theme Config
