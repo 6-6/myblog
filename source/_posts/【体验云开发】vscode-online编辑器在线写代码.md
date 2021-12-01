@@ -4,6 +4,7 @@ date: 2021-11-29 17:49:44
 tags: vscode
 cover: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/vscode-online/coding_vscode.png?sign=e8f902c51c3d0bee7fd42015ed3d3304&t=1638255251
 categories: [New Toy]
+feature: true
 ---
 
 ## 前言
