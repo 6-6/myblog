@@ -14,7 +14,7 @@ feature: true
 
 
 ## 服务器搭建vscode online
-我有一台ubuntu server服务器，于是参考以下教程尝试安装：[[VS Code]在自己的Ubuntu服务器上构建VSCode Online](https://www.cnblogs.com/lee-li/p/12041546.html)。进行到yarn watch启动服务的时候，服务器直接卡主或者宕机。这时候我猜测是因为服务器配置太低了，查了下推荐运行的配置**4核8G内存**，于是乎放弃这个方案。
+我有一台ubuntu server服务器，于是参考以下教程尝试安装：[[VS Code]在自己的Ubuntu服务器上构建VSCode Online](https://www.cnblogs.com/lee-li/p/12041546.html)。进行到yarn watch启动服务的时候，服务器直接卡主或者宕机。这时候我查看了服务器状态，cpu占用非常高，不晓得是不是我的配置太低了。看了下官方提供的运行配置**4核8G内存**，于是乎暂时放弃这个方案。
 
 
 ## coding.io版vscode
