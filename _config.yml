@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 疾影的博客
-description: ''
-keywords: blog
-nick: 
-author: 疾影的刀
+title: 1piece
+description: 'Find the treasure of your dreams'
+keywords: blog,1piece,eyu,frontend,developer
+author: eyu
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 
 # URL

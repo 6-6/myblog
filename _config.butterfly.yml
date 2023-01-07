@@ -7,17 +7,17 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标籤: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  清单||fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
-    电影: /movies/ || fas fa-video
-  友链: /link/ || fas fa-link
+  #清单||fa fa-heartbeat:
+    #音乐: /music/ || fas fa-music
+    #照片: /Gallery/ || fas fa-images
+    #电影: /movies/ || fas fa-video
+  #友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: ocean #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -85,7 +85,7 @@ avatar:
   effect: false
 
 # Disable all banner image
-disable_top_img: false
+disable_top_img: true
 
 # The banner image of home page
 index_img:
@@ -133,7 +133,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
