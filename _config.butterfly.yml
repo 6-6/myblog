@@ -297,6 +297,7 @@ gitalk:
   owner: '6-6'
   admin: ['6-6']
   option:
+  proxy: https://vercel.1piece.cc/github_access_token
 
 # valine
 # https://valine.js.org
