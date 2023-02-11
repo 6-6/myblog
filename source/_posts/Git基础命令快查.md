@@ -2,9 +2,10 @@
 title: Git基础命令快查
 date: 2020-08-13 14:26:29
 tags: Git
-cover: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2022/%E5%B0%81%E9%9D%A2%E5%9B%BE/Git%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E5%BF%AB%E6%9F%A5.png?sign=0640ec02abc4d53e5c7fd559a9552c86&t=1641369283
+cover: https://raw.githubusercontent.com/6-6/blog-assets/main/img/Git%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E5%BF%AB%E6%9F%A5.png
 categories: [开发工具]
 feature: false
+urlname: git-basic-commands
 ---
 
 # Git基础命令快查

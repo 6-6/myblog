@@ -1,6 +1,7 @@
 ---
 title: Hello World
 date: 2021-03-26 13:21:52
+urlname: Hello-World
 ---
 每个编程语言的教科书，第一个示例总是从'Hello World'开始的。
 

@@ -2,9 +2,10 @@
 title: 【体验云开发】vscode online编辑器在线写代码
 date: 2021-11-29 17:49:44
 tags: vscode
-cover: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/vscode-online/coding_vscode.png?sign=e8f902c51c3d0bee7fd42015ed3d3304&t=1638255251
-categories: [New Toy]
+cover: https://raw.githubusercontent.com/6-6/blog-assets/main/img/coding_vscode.png
+categories: [new toy]
 feature: true
+urlname: cloud-vscode-ide
 ---
 
 ## 前言
@@ -22,7 +23,7 @@ feature: true
 
 正好我的服务器也是腾讯云，绑定好了就可以使用vscode来使用云主机中的资源了。目前我的hexo博客也是在上面完成的，十分的方便。
 
-![cloud studio](https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/vscode-online/coding_vscode.png?sign=e8f902c51c3d0bee7fd42015ed3d3304&t=1638255251)
+![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/coding_vscode.png)
 
 
 ## Github版vscode
@@ -30,7 +31,7 @@ Github可以算是亲儿子了，毕竟被微软收购了，可以去[codespaces
 
 个人用户想体验下也是可以的，进入Github某个仓库的页面，点击键盘上的句号按钮```.```，可以触发快捷键跳转到```github.dev```，就可以看到以下界面。也可以把仓库的```.com```域名改为```.dev```我尝试了下终端命令，果然还是不能够使用的。
 
-![github vscode](https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/vscode-online/github_vscode2.png?sign=8f9c9d281241d0b93886564feda9cb78&t=1638255389)
+![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/github_vscode2.png)
 
 
 ## 结语

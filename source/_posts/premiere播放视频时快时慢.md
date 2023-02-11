@@ -3,6 +3,7 @@ title: premiere播放视频时快时慢
 date: 2018-07-04 10:49:01
 tags: premiere
 categories: [影音]
+urlname: premiere
 ---
 ## 问题：
 播放的视频是源自我的三星S7的录制屏幕，使用potplay播放视频与手机上体验一致。

@@ -3,6 +3,7 @@ title: ngnix服务重启失败查错
 date: 2021-07-27 14:37:51
 tags: ngnix
 categories: [服务器]
+urlname: The-NGNIX-service-failed
 ---
 
 ## 问题：
@@ -11,7 +12,7 @@ categories: [服务器]
 sudo service nginx restart
 ```
 
-![shell界面](https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/ngnix/20210727-1.png?sign=d29ed8fd652903d068454d203bb5beb9&t=1627369061)
+![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/20210727-1.png)
 
 报错信息：
 > Nginx: Failed to start A high performance web server and a reverse proxy server
@@ -23,7 +24,7 @@ sudo service nginx restart
 nginx -t -c /etc/nginx/nginx.conf
 ```
 
-![输出结果](https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/2021/ngnix/20210727-2.png?sign=26123be02a5befa122306d6b9ebba225&t=1627369105)
+![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/20210727-2.png)
 
 通过输出的结果，原来是nginx.conf 配置项有一个属性重复定义了
 
