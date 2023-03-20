@@ -2,6 +2,7 @@
 title: ngnix服务重启失败查错
 date: 2021-07-27 14:37:51
 tags: ngnix
+cover: https://s2.loli.net/2023/03/20/3XwlkpybZxdWhOG.png
 categories: [服务器]
 urlname: The-NGNIX-service-failed
 ---

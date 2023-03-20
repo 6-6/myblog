@@ -2,6 +2,7 @@
 title: 配置vue项目中scss的全局变量
 date: 2021-01-05 16:05:00
 tags: [scss, vue, webpack]
+cover: https://s2.loli.net/2023/03/20/1Y38AtqfJd9oLxz.png
 categories: [Vue]
 urlname: vue-scss-variable-setting
 ---
