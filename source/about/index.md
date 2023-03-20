@@ -17,7 +17,7 @@ date: 2021-03-26 10:27:04
 
 ## 联系我
 * 欢迎加我微信，请备注在哪看到我的
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210524101115.jpg)
+![](https://s2.loli.net/2023/03/20/YPE2F1VgZh7Rnrd.jpg)
 
 * [知乎](https://www.zhihu.com/people/3xtd) 
 * [掘金](https://juejin.cn/user/377887729139047)

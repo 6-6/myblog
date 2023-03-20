@@ -2,7 +2,7 @@
 title: 【体验云开发】vscode online编辑器在线写代码
 date: 2021-11-29 17:49:44
 tags: vscode
-cover: https://raw.githubusercontent.com/6-6/blog-assets/main/img/coding_vscode.png
+cover: https://s2.loli.net/2023/03/20/PiQXeBhotdA4HjS.png
 categories: [new toy]
 feature: true
 urlname: cloud-vscode-ide
@@ -23,7 +23,7 @@ urlname: cloud-vscode-ide
 
 正好我的服务器也是腾讯云，绑定好了就可以使用vscode来使用云主机中的资源了。目前我的hexo博客也是在上面完成的，十分的方便。
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/coding_vscode.png)
+![](https://s2.loli.net/2023/03/20/PiQXeBhotdA4HjS.png)
 
 
 ## Github版vscode
@@ -31,7 +31,7 @@ Github可以算是亲儿子了，毕竟被微软收购了，可以去[codespaces
 
 个人用户想体验下也是可以的，进入Github某个仓库的页面，点击键盘上的句号按钮```.```，可以触发快捷键跳转到```github.dev```，就可以看到以下界面。也可以把仓库的```.com```域名改为```.dev```我尝试了下终端命令，果然还是不能够使用的。
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/github_vscode2.png)
+![](https://s2.loli.net/2023/03/20/xjAgr9wZ5EQLGzh.png)
 
 
 ## 结语

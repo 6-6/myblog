@@ -2,7 +2,7 @@
 title: Git基础命令快查
 date: 2020-08-13 14:26:29
 tags: Git
-cover: https://raw.githubusercontent.com/6-6/blog-assets/main/img/Git%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4%E5%BF%AB%E6%9F%A5.png
+cover: https://s2.loli.net/2023/03/20/mqdiUeWS1LgrjZv.png
 categories: [开发工具]
 feature: false
 urlname: git-basic-commands

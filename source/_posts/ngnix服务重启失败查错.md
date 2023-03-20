@@ -12,7 +12,7 @@ urlname: The-NGNIX-service-failed
 sudo service nginx restart
 ```
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/20210727-1.png)
+![](https://s2.loli.net/2023/03/20/3XwlkpybZxdWhOG.png)
 
 报错信息：
 > Nginx: Failed to start A high performance web server and a reverse proxy server
@@ -24,7 +24,7 @@ sudo service nginx restart
 nginx -t -c /etc/nginx/nginx.conf
 ```
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/20210727-2.png)
+![](https://s2.loli.net/2023/03/20/bdLC9jY6tJcqyfV.png)
 
 通过输出的结果，原来是nginx.conf 配置项有一个属性重复定义了
 

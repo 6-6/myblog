@@ -8,14 +8,14 @@ urlname: vue-scss-variable-setting
 
 看到了一个[教程](https://mp.weixin.qq.com/s/LKaHJX1cwLlkzU7qQ7kkwg)
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/scss2.png)
+![](https://s2.loli.net/2023/03/20/1Y38AtqfJd9oLxz.png)
 
 我们可以在 vue 项目中配置全局变量以便于引入，而不用在每一个页面 import，是不是很方便！（这里就有疑问了）我们在 main.js 全局引入不就好了吗？答案是：不生效，至于为什么我猜测有关于预处理器的原因。
 
 ## 问题：
 我们希望在子页面可以全局的使用 scss 变量
 
-![](https://raw.githubusercontent.com/6-6/blog-assets/main/img/scss1.png)
+![](https://s2.loli.net/2023/03/20/SU3EB2FaAM4xbiZ.png)
 
 按照教程的做法，修改了 vue.config.js 当中的 css 配置项，然而并不生效，并且报错“Undefined variable”。
 
@@ -60,9 +60,9 @@ module.exports = {
 
 Google 一下，看到[这篇文章](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/)
 
-![原来不同版本有不同的写法](https://raw.githubusercontent.com/6-6/blog-assets/main/img/scss6.png)
+![原来不同版本有不同的写法](https://s2.loli.net/2023/03/20/rzuegYwQPOCHv4X.png)
 
-![项目中sass-loader的版本为7.0](https://raw.githubusercontent.com/6-6/blog-assets/main/img/scss3.png)
+![项目中sass-loader的版本为7.0](https://s2.loli.net/2023/03/20/614gOtz8Ap5caWm.png)
 
 ## 解决：
 使用命令安装下预处理器
@@ -74,7 +74,7 @@ npm i -D sass-loader@7.x // 安装sass-loader
 npm i -D node-sass@4.x // 安装node-sass
 ```
 
-![安装完成后，项目中版本升级了](https://raw.githubusercontent.com/6-6/blog-assets/main/img/scss4.png)
+![安装完成后，项目中版本升级了](https://s2.loli.net/2023/03/20/MKP9dsecmEDVUzh.png)
 
 对应sass-loader版本7.x，配置项中的参数为 data，修改 vue.config.js 配置项为：
 
