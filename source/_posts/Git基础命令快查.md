@@ -3,7 +3,7 @@ title: Git基础命令快查
 date: 2020-08-13 14:26:29
 tags: Git
 cover: https://s2.loli.net/2023/03/20/mqdiUeWS1LgrjZv.png
-categories: [开发工具]
+categories: [版本管理]
 feature: false
 urlname: git-basic-commands
 ---
